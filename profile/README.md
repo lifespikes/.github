@@ -1,6 +1,6 @@
 # Let's build some awesome 💩.
 
-Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help businesses accomplish more, by doing less by empowering and connecting them with web technologies. Below you'll find some useful info:
+Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
 
 
 
