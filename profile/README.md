@@ -2,7 +2,36 @@
 
 Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
 
+<div align="center">
+<table>
+<thead>
+<tr>
+<td colspan="8" align="center"><b>🙌 Our Product Ecosystem 🙌</b></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" align="center">IQ Core</td>
+<td colspan="2" align="center">Storefront API</td>
+<td colspan="2" align="center">Store UI</td>
+<td colspan="2" align="center">Admin UI</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
 
+<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
+
+<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
+
+<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Development Cycles 🥋
 
