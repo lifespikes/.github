@@ -2,6 +2,8 @@
 
 Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help businesses accomplish more, by doing less by empowering and connecting them with web technologies. Below you'll find some useful info:
 
+
+
 ### Development Cycles 🥋
 
 | Cycle | Meeting | Dates | Tasks | Primary Objective |
