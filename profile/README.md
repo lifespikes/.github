@@ -6,37 +6,48 @@ Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help bu
 <table>
 <thead>
 <tr>
-<td colspan="12" align="center"><b>🙌 Our Product Ecosystem 🙌</b></td>
+<td colspan="8" align="center"><b>🙌 Our Product Ecosystem 🙌</b></td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td colspan="3" align="center">
-  <b>IQ Core</b>
+<td colspan="2" align="center">
+  <b>IQ Core</b><br>
   <a href="https://github.com/markoplace/marko-core/actions/workflows/build.yml">
-    <img src="https://github.com/markoplace/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push">
+    <img src="https://github.com/markoplace/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=1">
   </a>
 </td>
-<td colspan="3" align="center">Storefront API</td>
-<td colspan="3" align="center">Store UI</td>
-<td colspan="3" align="center">Admin UI</td>
+<td colspan="2" align="center">
+  <b>Storefront API</b><br>
+  <a href="https://github.com/markoplace/marko-customer-api/actions/workflows/deploy.yml">
+    <img src="https://github.com/markoplace/marko-customer-api/actions/workflows/deploy.yml/badge.svg?branch=master&event=push&kill_cache=1">
+  </a>
+</td>
+<td colspan="2" align="center">
+  Store Web<br>
+  <a href="https://github.com/markoplace/marko-store/actions/workflows/build.yaml">
+    <img src="https://github.com/markoplace/marko-store/actions/workflows/build.yaml/badge.svg?branch=master&event=push&kill_cache=1">
+  </a>
+</td>
+<td colspan="2" align="center">
+  Admin Web<br>
+  <a href="https://github.com/markoplace/marko-ui-admin/actions/workflows/build.yml">
+    <img src="https://github.com/markoplace/marko-ui-admin/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=1">
+  </a>
+</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
 <td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
-<td align="center"></td>
 
-<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/actions/workflows/build.yml"><img src="https://github.com/markoplace/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push"></a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-customer-api">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-customer-api/issues">Issues</a></td>
 
-<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/actions/workflows/build.yml"><img src="https://github.com/markoplace/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push"></a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-store">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-store/issues">Issues</a></td>
 
-<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/actions/workflows/build.yml"><img src="https://github.com/markoplace/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push"></a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-ui-admin">Git</a></td>
+<td align="center"><a href="https://github.com/markoplace/marko-ui-admin/issues">Issues</a></td>
 </tr>
 </tbody>
 </table>
