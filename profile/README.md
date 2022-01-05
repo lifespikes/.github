@@ -1,8 +1,8 @@
-# Let's build some awesome 💩.
+<div align="center"><h1>Awesome projects built by awesome people</h1></div>
 
-Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
-
-<div align="center"></div>
+<div align="center">
+  Hi there! Welcome to the <b>MarkoIQ</b> GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
+</div><br />
 
 <div align="center">
 <table width="100%">
@@ -91,6 +91,8 @@ Hi there! Welcome to the **MarkoIQ** GitHub organization. Our goal is to help bu
 </tbody>
 </table>
 </div>
+
+<hr />
 
 ### Development Cycles 🥋
 
