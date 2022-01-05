@@ -1,4 +1,8 @@
-<div align="center"><h1>Awesome projects built by awesome people</h1></div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/4695165/148158104-c457202d-05a7-46cc-a360-ecaf7340e341.png" />
+</div>
+
+<hr />
 
 <div align="center">
   Hi there! Welcome to the <b>MarkoIQ</b> GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
