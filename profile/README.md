@@ -1,10 +1,20 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/4695165/148158104-c457202d-05a7-46cc-a360-ecaf7340e341.png" />
+  <table borders="0"><tbody>
+  <td>
+    <a href="https://github.com/markoplace/sample-repository">
+      <img src="https://user-images.githubusercontent.com/4695165/148333417-541f155b-1305-47b5-914a-7b1d84bceb2c.png" height="110" />
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/markoplace/survival-kit">
+      <img src="https://user-images.githubusercontent.com/4695165/148333420-e3341ebc-81b1-444f-b1e6-603228d5bc63.png" height="110" />
+    </a>
+  </td>
+  </tbody></table>
 </div>
 
 <hr />
-
-
 
 <div align="center">
   Hi there! Welcome to the <b>MarkoIQ</b> GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
