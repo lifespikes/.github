@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/4695165/148158104-c457202d-05a7-46cc-a360-ecaf7340e341.png" />
   <table borders="0"><tbody>
   <td>
-    <a href="https://github.com/markoplace/sample-repository">
+    <a href="https://github.com/lifespikes/sample-repository">
       <img src="https://user-images.githubusercontent.com/4695165/148333417-541f155b-1305-47b5-914a-7b1d84bceb2c.png" height="110" />
     </a>
   </td>
   <td>
-    <a href="https://github.com/markoplace/survival-kit">
+    <a href="https://github.com/lifespikes/survival-kit">
       <img src="https://user-images.githubusercontent.com/4695165/148333420-e3341ebc-81b1-444f-b1e6-603228d5bc63.png" height="110" />
     </a>
   </td>
@@ -17,7 +16,7 @@
 <hr />
 
 <div align="center">
-  Hi there! Welcome to the <b>MarkoIQ</b> GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
+    Hi there! Welcome to the <b>LifeSpikes</b> GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
 </div><br />
 
 <div align="center">
@@ -68,41 +67,41 @@
 <tr>
 <td colspan="2" align="center">
   <b>IQ Core</b><br>
-  <a href="https://github.com/markoplace/marko-core/actions/workflows/build.yml">
-    <img src="https://github.com/markoplace/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=1">
+  <a href="https://github.com/lifespikes/marko-core/actions/workflows/build.yml">
+    <img src="https://github.com/lifespikes/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=1">
   </a>
 </td>
 <td colspan="2" align="center">
   <b>Storefront API</b><br>
-  <a href="https://github.com/markoplace/marko-customer-api/actions/workflows/deploy.yml">
-    <img src="https://github.com/markoplace/marko-customer-api/actions/workflows/deploy.yml/badge.svg?branch=master&event=push&kill_cache=1">
+  <a href="https://github.com/lifespikes/marko-customer-api/actions/workflows/deploy.yml">
+    <img src="https://github.com/lifespikes/marko-customer-api/actions/workflows/deploy.yml/badge.svg?branch=master&event=push&kill_cache=1">
   </a>
 </td>
 <td colspan="2" align="center">
   Store Web<br>
-  <a href="https://github.com/markoplace/marko-store/actions/workflows/build.yaml">
-    <img src="https://github.com/markoplace/marko-store/actions/workflows/build.yaml/badge.svg?branch=master&event=push&kill_cache=1">
+  <a href="https://github.com/lifespikes/marko-store/actions/workflows/build.yaml">
+    <img src="https://github.com/lifespikes/marko-store/actions/workflows/build.yaml/badge.svg?branch=master&event=push&kill_cache=1">
   </a>
 </td>
 <td colspan="2" align="center">
   Admin Web<br>
-  <a href="https://github.com/markoplace/marko-ui-admin/actions/workflows/build.yml">
-    <img src="https://github.com/markoplace/marko-ui-admin/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=5">
+  <a href="https://github.com/lifespikes/marko-ui-admin/actions/workflows/build.yml">
+    <img src="https://github.com/lifespikes/marko-ui-admin/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=5">
   </a>
 </td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/markoplace/marko-core">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-core/issues">Issues</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-core">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-core/issues">Issues</a></td>
 
-<td align="center"><a href="https://github.com/markoplace/marko-customer-api">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-customer-api/issues">Issues</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-customer-api">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-customer-api/issues">Issues</a></td>
 
-<td align="center"><a href="https://github.com/markoplace/marko-store">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-store/issues">Issues</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-store">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-store/issues">Issues</a></td>
 
-<td align="center"><a href="https://github.com/markoplace/marko-ui-admin">Git</a></td>
-<td align="center"><a href="https://github.com/markoplace/marko-ui-admin/issues">Issues</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-ui-admin">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/marko-ui-admin/issues">Issues</a></td>
 </tr>
 </tbody>
 </table>
@@ -114,17 +113,17 @@
 
 | Cycle | Meeting | Dates | Tasks | Primary Objective |
 | --- | --- | --- | --- | --- |
-| Upcoming | Jan 12 | Jan 17 - Jan 30 | [View Board](https://github.com/orgs/markoplace/projects/4/views/20) | Upgrades to platform |
-| Current | Jan 3 | Jan 3 - Jan 16 | [View Board](https://github.com/orgs/markoplace/projects/4/views/19) | First production build of IQ |
+| Upcoming | Jan 12 | Jan 17 - Jan 30 | [View Board](https://github.com/orgs/lifespikes/projects/4/views/20) | Upgrades to platform |
+| Current | Jan 3 | Jan 3 - Jan 16 | [View Board](https://github.com/orgs/lifespikes/projects/4/views/19) | First production build of IQ |
 | Previous | - | - | - | - |
 
 ### General Resources 💡
 
 - **Standups:** Every Monday, Wednesday, and Friday
-- **Packages:** [🐘marko-php-sdk](https://github.com/markoplace/marko-php-sdk), [☕️iqevents-js-sdk](https://github.com/markoplace/iqevents-js-sdk)
+- **Packages:** [🐘marko-php-sdk](https://github.com/lifespikes/marko-php-sdk), [☕️iqevents-js-sdk](https://github.com/lifespikes/iqevents-js-sdk)
 - **Documentation:** [MarkoIQ API](https://docs.neith.io/) • [Storefront API](https://documenter.getpostman.com/view/11028303/UVXbuKmx) • [Laravel](https://laravel.com/docs/8.x) • [Chakra UI](https://chakra-ui.com/docs/getting-started) • [Figma](https://www.figma.com/files/team/1059917962084359153/MarkoIQ)
 
 ### Useful tools _(PR's welcome!)_ 🛠
 
 - **IDEs:** [PHPStorm](https://www.jetbrains.com/phpstorm/) • [WebStorm](https://www.jetbrains.com/webstorm/) • [VSCode](https://code.visualstudio.com/) • [Laravel IDEA 🏗](https://laravel-idea.com/)
-- **Envs and Tooling:**  [JSX Toolchain](https://laravel-mix.com/) • [Laravel Valet 🍎](https://github.com/laravel/valet) • [Laragon 🪟](https://laragon.org/) • [Create React App](https://github.com/facebook/create-react-app)
+    - **Envs and Tooling:**  [JSX Toolchain](https://laravel-mix.com/) • [Laravel Valet 🍎](https://github.com/laravel/valet) • [Laragon 🪟](https://laragon.org/) • [Create React App](https://github.com/facebook/create-react-app)
