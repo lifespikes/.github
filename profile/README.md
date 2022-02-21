@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://lifespikes-marketing.s3.amazonaws.com/lifespikes-banner-w.svg" height="150" /><br /><br />
   <table borders="0"><tbody>
   <td>
     <a href="https://github.com/lifespikes/sample-repository">
