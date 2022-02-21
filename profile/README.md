@@ -107,4 +107,4 @@
 ### Useful tools _(PR's welcome!)_ 🛠
 
 - **IDEs:** [PHPStorm](https://www.jetbrains.com/phpstorm/) • [WebStorm](https://www.jetbrains.com/webstorm/) • [VSCode](https://code.visualstudio.com/) • [Laravel IDEA 🏗](https://laravel-idea.com/)
-    - **Envs and Tooling:**  [JSX Toolchain](https://laravel-mix.com/) • [Laravel Valet 🍎](https://github.com/laravel/valet) • [Laragon 🪟](https://laragon.org/) • [Create React App](https://github.com/facebook/create-react-app)
+- **Envs and Tooling:**  [JSX Toolchain](https://laravel-mix.com/) • [Laravel Valet 🍎](https://github.com/laravel/valet) • [Laragon 🪟](https://laragon.org/) • [Create React App](https://github.com/facebook/create-react-app)
