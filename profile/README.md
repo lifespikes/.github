@@ -77,6 +77,10 @@
     <img src="https://github.com/lifespikes/discord-bot/actions/workflows/build.yml/badge.svg?branch=master">
   </a>
 </td>
+<td colspan="2" align="center">
+  <b>Toolbox</b><br>
+  <i>(Packages)</i>
+</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/lifespikes/payroll-goat">Git</a></td>
@@ -84,6 +88,9 @@
 
 <td align="center"><a href="https://github.com/lifespikes/discord-bot">Git</a></td>
 <td align="center"><a href="https://github.com/lifespikes/discord-bot/issues">Issues</a></td>
+
+<td align="center"><a href="https://github.com/lifespikes/toolbox">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/toolbox/issues">Issues</a></td>
 </tr>
 </tbody>
 </table>
