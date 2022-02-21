@@ -60,48 +60,30 @@
 <table width="100%">
 <thead>
 <tr>
-<td colspan="8" align="center"><b>🙌 Our Product Ecosystem 🙌</b></td>
+<td colspan="8" align="center"><b>🙌 Current Projects 🙌</b></td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td colspan="2" align="center">
-  <b>IQ Core</b><br>
-  <a href="https://github.com/lifespikes/marko-core/actions/workflows/build.yml">
-    <img src="https://github.com/lifespikes/marko-core/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=1">
+  <b>PayrollGoat</b><br>
+  <a href="https://github.com/lifespikes/payroll-goat/actions/workflows/build.yml">
+    <img src="https://github.com/lifespikes/payroll-goat/actions/workflows/build.yml/badge.svg?branch=master&event=push">
   </a>
 </td>
 <td colspan="2" align="center">
-  <b>Storefront API</b><br>
-  <a href="https://github.com/lifespikes/marko-customer-api/actions/workflows/deploy.yml">
-    <img src="https://github.com/lifespikes/marko-customer-api/actions/workflows/deploy.yml/badge.svg?branch=master&event=push&kill_cache=1">
-  </a>
-</td>
-<td colspan="2" align="center">
-  Store Web<br>
-  <a href="https://github.com/lifespikes/marko-store/actions/workflows/build.yaml">
-    <img src="https://github.com/lifespikes/marko-store/actions/workflows/build.yaml/badge.svg?branch=master&event=push&kill_cache=1">
-  </a>
-</td>
-<td colspan="2" align="center">
-  Admin Web<br>
-  <a href="https://github.com/lifespikes/marko-ui-admin/actions/workflows/build.yml">
-    <img src="https://github.com/lifespikes/marko-ui-admin/actions/workflows/build.yml/badge.svg?branch=master&event=push&kill_cache=5">
+  <b>Discord Bot</b><br>
+  <a href="https://github.com/lifespikes/discord-bot/actions/workflows/build.yml">
+    <img src="https://github.com/lifespikes/discord-bot/actions/workflows/build.yml/badge.svg?branch=master">
   </a>
 </td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/lifespikes/marko-core">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/marko-core/issues">Issues</a></td>
+<td align="center"><a href="https://github.com/lifespikes/payroll-goat">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/payroll-goat/issues">Issues</a></td>
 
-<td align="center"><a href="https://github.com/lifespikes/marko-customer-api">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/marko-customer-api/issues">Issues</a></td>
-
-<td align="center"><a href="https://github.com/lifespikes/marko-store">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/marko-store/issues">Issues</a></td>
-
-<td align="center"><a href="https://github.com/lifespikes/marko-ui-admin">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/marko-ui-admin/issues">Issues</a></td>
+<td align="center"><a href="https://github.com/lifespikes/discord-bot">Git</a></td>
+<td align="center"><a href="https://github.com/lifespikes/discord-bot/issues">Issues</a></td>
 </tr>
 </tbody>
 </table>
@@ -113,15 +95,14 @@
 
 | Cycle | Meeting | Dates | Tasks | Primary Objective |
 | --- | --- | --- | --- | --- |
-| Upcoming | Jan 12 | Jan 17 - Jan 30 | [View Board](https://github.com/orgs/lifespikes/projects/4/views/20) | Upgrades to platform |
-| Current | Jan 3 | Jan 3 - Jan 16 | [View Board](https://github.com/orgs/lifespikes/projects/4/views/19) | First production build of IQ |
+| Upcoming | Feb 25 | Feb 28 - Mar 13 | N/A | Pending |
+| Current | Feb 11 | Feb 14 - Feb 27 | [View Board](https://github.com/orgs/lifespikes/projects/4/views/19) | PayrollGoat MVP |
 | Previous | - | - | - | - |
 
 ### General Resources 💡
 
-- **Standups:** Every Monday, Wednesday, and Friday
-- **Packages:** [🐘marko-php-sdk](https://github.com/lifespikes/marko-php-sdk), [☕️iqevents-js-sdk](https://github.com/lifespikes/iqevents-js-sdk)
-- **Documentation:** [MarkoIQ API](https://docs.neith.io/) • [Storefront API](https://documenter.getpostman.com/view/11028303/UVXbuKmx) • [Laravel](https://laravel.com/docs/8.x) • [Chakra UI](https://chakra-ui.com/docs/getting-started) • [Figma](https://www.figma.com/files/team/1059917962084359153/MarkoIQ)
+- **Standups:** Every day at 5 PM _(Mostly)_
+- **Coming Soon:** LifeSpikes Docs, StyleCI, Ray Apps, and more.
 
 ### Useful tools _(PR's welcome!)_ 🛠
 
