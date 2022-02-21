@@ -3,12 +3,12 @@
   <table borders="0"><tbody>
   <td>
     <a href="https://github.com/lifespikes/sample-repository">
-      <img src="https://user-images.githubusercontent.com/4695165/148333417-541f155b-1305-47b5-914a-7b1d84bceb2c.png" height="110" />
+      <strong>STARTER REPO</strong>
     </a>
   </td>
   <td>
     <a href="https://github.com/lifespikes/survival-kit">
-      <img src="https://user-images.githubusercontent.com/4695165/148333420-e3341ebc-81b1-444f-b1e6-603228d5bc63.png" height="110" />
+      <strong>SURVIVAL KIT / TEAM HANDBOOK</strong>
     </a>
   </td>
   </tbody></table>
