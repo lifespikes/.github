@@ -1,22 +1,4 @@
 <div align="center">
-  <img src="https://lifespikes-marketing.s3.amazonaws.com/lifespikes-banner-w.svg" height="150" /><br /><br />
-  <table borders="0"><tbody>
-  <td>
-    <a href="https://github.com/lifespikes/sample-repository">
-      <strong>STARTER REPO</strong>
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/lifespikes/survival-kit">
-      <strong>SURVIVAL KIT / TEAM HANDBOOK</strong>
-    </a>
-  </td>
-  </tbody></table>
-</div>
-
-<hr />
-
-<div align="center">
     Hi there! Welcome to the <b>LifeSpikes</b> GitHub organization. Our goal is to help businesses accomplish more and do less by empowering and connecting them with web technologies. Below you'll find some useful info:
 </div><br />
 
@@ -55,64 +37,3 @@
 </tbody>
 </table>
 </div>
-
-<br />
-<div align="center" width="100%">
-<table width="100%">
-<thead>
-<tr>
-<td colspan="8" align="center"><b>🙌 Current Projects 🙌</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="2" align="center">
-  <b>PayrollGoat</b><br>
-  <a href="https://github.com/lifespikes/payroll-goat/actions/workflows/build.yml">
-    <img src="https://github.com/lifespikes/payroll-goat/actions/workflows/build.yml/badge.svg?branch=master&event=push">
-  </a>
-</td>
-<td colspan="2" align="center">
-  <b>Discord Bot</b><br>
-  <a href="https://github.com/lifespikes/discord-bot/actions/workflows/build.yml">
-    <img src="https://github.com/lifespikes/discord-bot/actions/workflows/build.yml/badge.svg?branch=master">
-  </a>
-</td>
-<td colspan="2" align="center">
-  <b>Toolbox</b><br>
-  <i>(Packages)</i>
-</td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/lifespikes/payroll-goat">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/payroll-goat/issues">Issues</a></td>
-
-<td align="center"><a href="https://github.com/lifespikes/discord-bot">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/discord-bot/issues">Issues</a></td>
-
-<td align="center"><a href="https://github.com/lifespikes/toolbox">Git</a></td>
-<td align="center"><a href="https://github.com/lifespikes/toolbox/issues">Issues</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<hr />
-
-### Development Cycles 🥋
-
-| Cycle | Meeting | Dates | Tasks | Primary Objective |
-| --- | --- | --- | --- | --- |
-| Upcoming | Feb 25 | Feb 28 - Mar 13 | N/A | Pending |
-| Current | Feb 11 | Feb 14 - Feb 27 | [View Board](https://github.com/orgs/lifespikes/projects/4/views/19) | PayrollGoat MVP |
-| Previous | - | - | - | - |
-
-### General Resources 💡
-
-- **Standups:** Every day at 5 PM _(Mostly)_
-- **Coming Soon:** LifeSpikes Docs, StyleCI, Ray Apps, and more.
-
-### Useful tools _(PR's welcome!)_ 🛠
-
-- **IDEs:** [PHPStorm](https://www.jetbrains.com/phpstorm/) • [WebStorm](https://www.jetbrains.com/webstorm/) • [VSCode](https://code.visualstudio.com/) • [Laravel IDEA 🏗](https://laravel-idea.com/)
-- **Envs and Tooling:**  [JSX Toolchain](https://laravel-mix.com/) • [Laravel Valet 🍎](https://github.com/laravel/valet) • [Laragon 🪟](https://laragon.org/) • [Create React App](https://github.com/facebook/create-react-app)
