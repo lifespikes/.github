@@ -18,3 +18,4 @@
 | lifespikes/react-keybinds | Simple keyboard shortcuts for React apps | https://github.com/lifespikes/react-keybinds |
 | lifespikes/monorepo-cli | CLI utilities for Laravel apps built on monorepos | https://github.com/lifespikes/monorepo-cli |
 | lifespikes/next-last-path | Hook to get last route on NextJS apps | https://github.com/lifespikes/next-last-path |
+| lifespikes/laravel-precognition-react | Set of React Hooks for Laravel Precognition and Inertia.js | https://github.com/lifespikes/laravel-precognition-react |
